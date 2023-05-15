@@ -17,7 +17,7 @@ STREAM_TYPES = [LinkedInStream]
 class TapLinkedIn(Tap):
     """LinkedIn tap class."""
 
-    name = "tap-linkedin"
+    name = "tap-linkedin-ads"
 
     # TODO: Update this section with the actual config values you expect:
     config_jsonschema = th.PropertiesList(

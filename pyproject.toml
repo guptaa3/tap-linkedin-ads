@@ -36,4 +36,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 # CLI declaration
-tap-linkedin = 'tap_linkedin.tap:TapLinkedIn.cli'
+tap-linkedin-ads = 'tap_linkedin.tap:TapLinkedIn.cli'
